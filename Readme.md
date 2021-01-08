@@ -16,6 +16,7 @@ Configuration is done via environment variables
 - CHANNEL holds the channel to which messages are sent to
 
 > Example:
+
 `export SLACKHOOK="https://hooks.slack.com/services/EFD324FDF/SAGFG46898JKG/DSFGHGH6768MNBNDR"`
 `export CHANNEL="#your-channel"`
 
