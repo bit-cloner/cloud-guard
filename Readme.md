@@ -18,6 +18,7 @@ Configuration is done via environment variables
 > Example:
 
 `export SLACKHOOK="https://hooks.slack.com/services/EFD324FDF/SAGFG46898JKG/DSFGHGH6768MNBNDR"`
+
 `export CHANNEL="#your-channel"`
 
 This tool looks for typical authentication machanisms that AWS allows. i.e environment variables, AWS profile etc..
